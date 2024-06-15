@@ -1,3 +1,4 @@
+![ce43b1c76f272a5ff61d0c408173d89b](https://github.com/topjohnwu/Magisk/assets/133996002/d4e62ea8-8f9e-4a48-be70-a37823b0293b)
 # Magisk Changelog
 
 ### v27.0
